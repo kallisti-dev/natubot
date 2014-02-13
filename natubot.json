@@ -1,0 +1,11 @@
+{
+    "network": "irc.twitch.tv",
+    "port": 6667,
+    "nick": "",
+    "channel": "",
+    "password": "",
+    "undo_timer": 120,
+    "max_song_count": 1,
+    "twitch_auth_code": "",
+    "spotify_playlist_uri": ""
+}
